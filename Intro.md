@@ -45,6 +45,6 @@ First, Let do a quick overview of web technologies.
 * python is used for many [web frameworks](https://wiki.python.org/moin/WebFrameworks)
 * [server side rendering via templates](https://www.tornadoweb.org/en/stable/guide/templates.html) - [fast api example](https://fastapi.tiangolo.com/advanced/templates/)
 * [iPython](https://ipython.org) - [jupyter](https://jupyter.org) - [google colab](https://colab.research.google.com)
-* Pyodide is a port of CPython to [WebAssembly WASM](https://webassembly.org)
+* [Pyodide](https://pyodide.org/en/stable/) is a port of CPython to [WebAssembly WASM](https://webassembly.org)
 
 Ooook now lets talk about [PyScript!](https://github.com/aqemery/PyRVAscript/blob/main/README.md)
