@@ -51,49 +51,15 @@ Lets look at some of the example and the code
 * [rolling dice](http://www.ptmcg.com/dev/pyscript/random_nums_with_score.html)
 * [ray cast](https://pyscript.net/examples/webgl/raycaster/index.html) - [code](https://github.com/pyscript/pyscript/blob/main/examples/webgl/raycaster/index.html)
 * [world map](https://pyscript.net/examples/folium.html) - [code](https://github.com/pyscript/pyscript/blob/main/examples/folium.html)
-
 * [streaming graph](https://pyscript.net/examples/panel_stream.html) - [code](https://github.com/pyscript/pyscript/blob/main/examples/panel_stream.html)
-
-
 * [taxi](https://pyscript.net/examples/panel_deckgl.html) - [code](https://github.com/pyscript/pyscript/blob/main/examples/panel_deckgl.html)
+* [numeronym](https://numeronym.me) - [code](https://github.com/wwitzel3/numeronym.me/blob/main/index.html)
+* [html5 canvas clock](https://jhanley.com/examples/pyscript/clock.html) - [code](https://www.jhanley.com/pyscript-graphics) 
+* [pywebcanvas](https://gitlab.com/imbev/pywebcanvas/-/tree/master/) - local demo
 
 
 
-How imports work? 
-What about custom imports?
-Built in visual components?
-Interacting with javascript?
+live demo?
 Using pyscript in an existing js app?
 
-
-
-Pyscript styling?
-Pyscript gaming?
-Prscript environment
-
-Cookies
-SSO GitHub/ aws
-
-
-Phone sensors
-
-Publish to GitHub pages
-
-Local file system
-Running linux commands in subprocess
-
-
-
-
-Ipyhon
-Retirement calc 
-
-
-
-* https://www.gatsbyjs.com
-* https://anaconda.cloud/announcing-pyscript-versioning
-* https://realpython.com/pyscript-python-in-browser/
-* https://github.com/pyscript/pyscript/issues
-* https://discourse.holoviz.org/t/panel-in-pyscript-example/3746
-* https://www.jhanley.com/pyscript-graphics/
-* https://gitlab.com/imbev/pywebcanvas/-/tree/master/
+https://realpython.com/pyscript-python-in-browser
