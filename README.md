@@ -2,7 +2,7 @@
 
 We are going to talk about why pyscript is a big deal, and how to get started!
 
-First, Let do an [intro](https://github.com/aqemery/PyRVAscript/blob/main/intro.md) to set the stage.
+First, Let do an [intro](https://github.com/aqemery/PyRVAscript/blob/main/Intro.md) to set the stage.
 
 
 Introduced at pylon 2022
