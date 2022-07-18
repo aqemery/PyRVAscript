@@ -13,6 +13,8 @@ A warning from https://pyscript.net
 
 > Please be advised that PyScript is very alpha and under heavy development. There are many known issues, from usability to loading times, and you should expect things to change often. We encourage people to play and explore with PyScript, but at this time we do not recommend using it for production.
 
+version info: https://anaconda.cloud/announcing-pyscript-versioning
+
 Check out the [issue backlog](https://github.com/pyscript/pyscript/issues)
 
 
